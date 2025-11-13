@@ -1,0 +1,46 @@
+{
+  "name": "Rei Taro",
+  "role_name": "Senior Software Engineer",
+  "email": "rei515@outlook.com",
+  "phone": "+48732529451",
+  "address": "Warszawa, Poland",
+  "linkedin": "https://www.linkedin.com/in/rei-taro-81a410391/",
+  "profile_summary": "Experienced Senior Backend Developer with over 10 years of expertise in designing and delivering backend systems, specializing in financial platforms, AI/ML pipelines, and cloud-native architectures. Adept at creating high-performing APIs, automation tools, and scalable services using technologies such as Python (FastAPI, Django, Flask), alongside cloud platforms like AWS and Azure. Proven track record of contributing to impactful projects at top-tier organizations, including VISA, Sii Poland, and Reply Polska.",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "category": "",
+      "from_year": "2010",
+      "to_year": "2015",
+      "location": "Japan",
+      "university": "Keio University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Leobit",
+      "from_date": "Aug 2022",
+      "to_date": "Present",
+      "location": "Poland",
+      "responsibilities": "Engineered backend services in Python using FastAPI to streamline document automation, user onboarding, and reporting workflows.\nDeveloped event-driven solutions with Celery and Redis to manage asynchronous processing for financial transaction requests.\nDeployed microservices on Azure App Services and utilized Terraform to manage infrastructure as code, ensuring seamless cloud operations.\nCreated and maintained data pipelines for regulatory data exchange with Apache Airflow and Azure Functions, ensuring timely and accurate data flow.\nLed security assessments and integrated OAuth2 and Azure AD B2C for secure, scalable authentication systems.\nCollaborated with cross-functional teams to address system integration challenges, ensure compliance, and oversee release strategies.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Innovature",
+      "from_date": "Nov 2018",
+      "to_date": "Jun 2022",
+      "location": "Japan",
+      "responsibilities": "Developed backend systems in Python and FastAPI to automate document workflows, streamline user onboarding, and handle complex reporting processes.\nCreated event-driven microservices using Celery and Redis, enabling asynchronous processing of financial data and transaction requests.\nManaged the deployment of microservices on Azure App Services, leveraging Terraform for infrastructure automation to maintain consistent and scalable environments.\nEngineered data pipelines for the secure exchange of regulatory data, using Apache Airflow and Azure Functions to automate and streamline the data flow.\nPerformed security audits, ensuring compliance with industry standards, and integrated OAuth2 and Azure AD B2C to manage authentication and secure access controls.\nCollaborated with cross-functional teams to ensure smooth system integration, regulatory compliance, and successful release management.\n"
+    },
+    {
+      "role": "Software Developer",
+      "company": "Wizcorp",
+      "from_date": "Apr 2015",
+      "to_date": "Nov 2018",
+      "location": "Japan",
+      "responsibilities": "Developed backend services for trade execution, portfolio management, and account tracking using Python, Flask, and PostgreSQL to enhance trading operations.\nEngineered real-time price feed processors with asyncio, WebSockets, and Redis to deliver up-to-the-minute trading data for high-frequency transactions.\nCollaborated closely with frontend teams to deliver data through REST APIs and WebSocket channels, ensuring smooth user interaction with the platform.\nEnsured the platform met regulatory requirements, including MiFID II and GDPR, while adhering to internal data security protocols.\nImplemented comprehensive test suites with PyTest, tox, and mock servers, streamlining QA and CI processes for efficient development cycles.\nIntroduced job queuing and scheduling solutions with Celery and RabbitMQ, optimizing backend task execution and process management.\n"
+    }
+  ],
+  "skills": "•\tLanguages: Python (3.8+), SQL, Bash, JavaScript\n•\tFrameworks: FastAPI, Flask, Django, Celery\n•\tCloud & DevOps: AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps\n•\tDatabases: PostgreSQL, MySQL, MongoDB, Redis\n•\tAI/ML Tools: Pandas, NumPy, scikit-learn, TensorFlow, Airflow, MLflow\n•\tOthers: REST/gRPC APIs, Microservices, Kafka, CI/CD, PyTest, Git\n"
+}

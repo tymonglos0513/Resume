@@ -1,0 +1,46 @@
+{
+  "name": "Andrzej Ito",
+  "role_name": "Senior Full-Stack Engineer",
+  "email": "andrzej.ito@outlook.com",
+  "phone": "+48 732 126 371",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/andrzej-ito-2872a4391/",
+  "profile_summary": "As a Senior Software Engineer, I bring over 9 years of experience in designing and building scalable software solutions. I have a strong track record of leading cross-functional teams, mentoring junior engineers, and delivering impactful projects that prioritize user experience, performance, and innovation. Currently, I’m focused on enhancing accessibility and driving technical excellence in everything I do.",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "category": "Computer Science",
+      "from_year": "2010",
+      "to_year": "2014",
+      "location": "Osaka, Japan",
+      "university": "Osaka University"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Allegro.pl",
+      "from_date": "08/2022",
+      "to_date": "",
+      "location": "Poznan, Poland",
+      "responsibilities": "Lead the development of key services within Java cloud-based applications, focusing on\nMicroservices Architecture and REST API design.  Designed and developed Hybrid-single Page Application using Java, Spring Boot, React 17 and\nRedux 4.2.1.  Enhanced the React Observables with Redux, React-router and Redux-thunk.  Developed user interface by using React HOC, Flux/Redux for SPA development.  Worked on UI layer using Angular 14, HTML5, CSS, and Bootstrap to build rich, flexible and user\ninteractive web pages.  Hands on experience with Core Java with Multithreading, Concurrency, File Handling I/O, Generics, Data Structures and Collections, Garbage Collection.  Used Node.js, MongoDB and node package manager for installing dependencies and to run the\napplication in a web server in staging environment.  Experienced with RDBMS implementation and development using Oracle, MySQL, MS SQL and\nPostgreSQL.  Automated Docker image deployment to a dev/fqt and production environment using Jenkins\nand Ansible."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Paypay Corporation",
+      "from_date": "05/2017",
+      "to_date": "07/2022",
+      "location": "Tokyo, Japan",
+      "responsibilities": "Involved in developing UI using Spring MVC framework, JSP, JSTL, HTML5, CSS, JavaScript, jQuery, AJAX and AngularJS.  Designed and implemented Model View Controller (MVC) architecture using Spring framework\nand wrote Hibernate classes, DAO’s to retrieve & store data, configured Hibernate files.  Used Spring Core annotations for Spring Dependency Injection, Spring MVC for REST APIs and\nSpring Boot for Microservices.  Developed a web application using React 12 as front-end and using Web API to receive and\npass data to back-end.  Created Reusable Modules and Custom Directives in Angular 12, 13 which got used in various\nplaces of application.  Implemented Web Sockets for to enable real-time bidirectional communication.  Developed and integrated dashboard using ChartJS, and implemented authentication and using\nAuth Guards.  Designed dynamic and multi-browser compatible web pages using HTML5, CSS3, JavaScript, and jQuery, Angular JS, Ext Js, React JS, AJAX, Grunt and JSON."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Fujitsu Ltd",
+      "from_date": "06/2014",
+      "to_date": "04/2017",
+      "location": "Tokyo, Japan",
+      "responsibilities": "Developed web applications using Spring MVC, jQuery, HTML, JavaScript, CSS, Web Forms, Material UI, Tailwind CSS and AJAX controls.  Used jQuery to implement user interface controls to validate client side validation.  Converted Photshop and Figma designs to table-less semantic XHTML, CSS.  Implemented CORS using Node.js and developed REST services using Node and Express.  Involved in designing SSIS packages to export data of flat file source to MS SQL Server.  Gained experience with various web technologies including Bower, NPM, Git, Material design, and cloud services like AWS, Azure, GCP, and Heroku."
+    }
+  ],
+  "skills": "Java, C++, C#, Python, SQL, PLSQL  Spring, Spring Boot, Hibernate, Struts, JPA, Kotlin, Node.js, React, Vue, Angular , SOLID, DRY, LINQ, MS SQL Server, Oracle, MongoDB, Rabbit MQ, PostgreSQL, Redis, SOAP, REST APIs, Microservices"
+}

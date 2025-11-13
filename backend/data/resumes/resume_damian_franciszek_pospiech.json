@@ -1,0 +1,46 @@
+{
+  "name": "Damian Franciszek Pospiech",
+  "role_name": "Senior Software Engineer",
+  "email": "damianpos127@outlook.com",
+  "phone": "+48 732 143 608",
+  "address": "Mikolow, Poland",
+  "linkedin": "https://www.linkedin.com/in/damian-pospiech-261821397/",
+  "profile_summary": "Full Stack Developer with 13+ years of experience delivering high-performance applications across the healthcare and financial industries. Skilled in JavaScript/TypeScript, Python, and Flutter, with hands-on expertise in both frontend and backend development using React, Next.js, Vue, Node.js, FastAPI, and Django.\nExperienced in building AI/ML-powered platforms that support predictive analytics, automation, and real-time processing. Proficient in deploying cloud-native systems on AWS and Azure, and implementing microservices, event-driven architectures, and CI/CD pipelines.\nWell-versed in compliance-driven development, aligning solutions with HIPAA, FHIR, PCI DSS, and SOC 2 standards. Strong background in MLOps, including model training, serving, and orchestration using MLflow, Airflow, and Kubeflow.\n",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2007",
+      "to_year": "2012",
+      "location": "UK",
+      "university": "University of Cambridge"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Codebridge",
+      "from_date": "Apr 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Designed and built full-stack platforms for healthcare and fintech using Python (FastAPI), TypeScript and Node.js, paired with modern front-end frameworks like React (17–18), Next.js, and Vue 3, ensuring full compliance with HIPAA, FHIR, GDPR, PCI DSS, and SOX.\nDelivered mobile applications for iOS and Android using Flutter and React Native, implementing native modules and managing state with Provider and Redux to support secure, real-time user interactions.\nCreated CI/CD pipelines tailored for mobile using Fastlane and App Center, incorporating test automation, release workflows, and crash analytics with Firebase Crashlytics and Sentry.\nLed the transformation of legacy systems into microservices architectures, leveraging Docker, Kubernetes (AKS/EKS), and serverless functions via AWS Lambda and Azure Functions for fault-tolerant, scalable deployments.\nBuilt and maintained data infrastructure using PostgreSQL, MongoDB, Redis, and GraphQL, designed to support heavy data ingestion and real-time analytics for both health and finance domains.\nDeployed ML models for risk scoring, fraud detection, and document classification using scikit-learn, PyTorch, and TensorFlow, with backend inference integrated into live systems.\nImplemented MLOps workflows using MLflow, DVC, and Airflow, managing model training, validation, and deployment pipelines across development and production.\nIntegrated intelligent features into frontend applications, such as personalized dashboards, predictive health alerts, and financial summaries, powered by models hosted on Azure ML and AWS Sagemaker.\nBuilt DevOps pipelines using GitHub Actions, CircleCI, and Azure DevOps, with full test automation, linting, security checks, and multi-environment deployment workflows.\nDeveloped advanced data visualization tools with D3.js, Chart.js, and Power BI Embedded, enabling real-time analysis of financial activity, fraud trends, and operational KPIs.\nCollaborated closely with ML teams to deploy NLP models (spaCy, Hugging Face Transformers) for document parsing and anomaly detection, exposed through secured REST APIs.\nDefined and enforced robust testing strategies across the stack using Jest, Cypress, Postman, and PyTest to cover unit, integration, E2E, and contract-level tests.\nIntegrated search capabilities with Azure Cognitive Search and Elasticsearch, supporting fast and flexible querying across structured and unstructured health and financial datasets.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Grupa Azoty",
+      "from_date": "Oct 2015",
+      "to_date": "Mar 2021",
+      "location": "Poland",
+      "responsibilities": "Modernized core financial platforms by migrating to microservices architecture using Node.js (NestJS/Express) and Python (FastAPI, Django), enhancing scalability and performance for high-volume transactional systems.\nBuilt interactive front-end applications with React (18), Vue 3, Next.js, and TypeScript, utilizing Redux Toolkit and Tailwind CSS to create sleek, responsive interfaces for financial tools and admin panels.\nDelivered real-time analytics dashboards with React, D3.js, and Power BI Embedded, providing operations teams with instant insights into transactions and anomalies.\nDesigned and deployed a robust event-driven architecture using Kafka, RabbitMQ, and Azure Service Bus, ensuring asynchronous communication across critical workflows such as payments, alerts, and compliance.\nDeveloped ETL pipelines for ingesting financial data from internal and third-party sources using Python, Apache Airflow, and Azure Data Factory, supporting both batch and real-time processing.\nBuilt and deployed machine learning models for fraud detection using scikit-learn, XGBoost, and Azure ML, enabling proactive detection of suspicious activity based on user behavior and transaction patterns.\nCreated ML pipelines for real-time credit scoring, churn prediction, and transaction classification, leveraging MLflow and Airflow to integrate model inference into backend services.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "GoodCore",
+      "from_date": "Jan 2012",
+      "to_date": "Sep 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for a global e-commerce platform using Python (FastAPI, Django) and Node.js (NestJS, Express), ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using WebSockets and event-driven architecture powered by Kafka and RabbitMQ, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped frontend applications using React (18), Vue 3, and Angular, enhanced with TypeScript, Redux Toolkit, and Tailwind CSS, delivering fast, responsive user experiences on both web and mobile platforms.\nLeveraged MongoDB, PostgreSQL, Redis, and Cassandra for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and caching frequently accessed resources for performance gains.\nIntegrated AI/ML-based recommendation engines using scikit-learn, LightGBM, and TensorFlow to personalize product listings, optimize search relevance, and improve conversion rates based on real-time behavioral data.\nImplemented Redis caching for product metadata, shopping cart sessions, and search results, significantly improving application responsiveness and reducing read pressure on databases.\nImplemented feature flags and blue-green deployments using LaunchDarkly and Kubernetes namespaces, enabling controlled rollouts, A/B testing, and risk mitigation during major platform updates.\nCreated responsive, SEO-friendly e-commerce UIs using Next.js, Vue 3 + Nuxt, and HTML5/CSS3, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\nBuilt secure payment workflows integrated with Stripe, PayPal, and Razorpay, applying tokenized transactions and PCI-compliant handling of sensitive data.\nApplied role-based access control (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform.\n"
+    }
+  ],
+  "skills": "Frameworks & Technologies:\n•\tPython: FastAPI, Flask, Django\n•\tJavaScript/TypeScript: React, Vue, Angular\nArtificial Intelligence & Machine Learning:\n•\tMLflow, Airflow, Kubeflow\nDevOps & Cloud:\n•\tDocker, Kubernetes\n•\tGitHub Actions, GitLab CI/CD\n•\tAWS: ECS, Lambda, RDS, S3\n•\tAzure: App Services, Blob Storage, SQL Database\n        Authentication & Security:\n•\tKeycloak (OIDC, RBAC), OAuth2, JWT\n•\tNginx, Let’s Encrypt, Certbot\n        Databases & Caching:\n•\tPostgreSQL (Fintech), MySQL (Healthcare)\n•\tMongoDB (Gaming), Redis\n        CI/CD & Infrastructure as Code:\n•\tTerraform, Ansible, Helm, Docker Compose\n"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "DANIEL HE",
+  "role_name": "FULL STACK SOFTWARE ENGINEER",
+  "email": "daniel.he8@outlook.com ",
+  "phone": "+48 730 743 032",
+  "address": "Rzeszów, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-he-044a76397/",
+  "profile_summary": "Experienced Full-Stack Software Engineer with a strong background in designing scalable, reliable, and user-centric applications. Proficient in Java and Spring Boot for backend development, along with React, Vue, and Angular for seamless frontend interfaces. Recognized for implementing complex solutions across healthcare, eCommerce, and finance sectors, driving significant improvements through automation, robust architecture, and a commitment to clean, efficient code.",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "Computer Science",
+      "from_year": "2012",
+      "to_year": "2016",
+      "location": "Beijing, China ",
+      "university": "Tsinghua University "
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Full Stack Engineer",
+      "company": "Britenet",
+      "from_date": "Feb 2023 ",
+      "to_date": "Present",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Designed a microservices-based Clinical Patient Management System (CPMS) using Java (Spring Boot), achieving 95% accuracy in patient tracking and significantly enhancing adherence rates through automated reminders.\nDeveloped RESTful APIs with Spring Data JPA, improving data accuracy by 40% and ensuring secure EHR integration with Spring Security and OAuth2.\nEnhanced UI/UX for the pathway builder using React and Ant Design, reducing completion time by 30%.\nBuilt a notification system with RabbitMQ, achieving 99% timely alert delivery.\nEstablished CI/CD pipelines with GitHub Actions and AWS CodePipeline, reducing deployment times by 80%.\nContainerized microservices with Docker, streamlining deployment processes across staging and production.\nManaged services on AWS EKS (Kubernetes) with Terraform, maintaining 99.9% uptime and optimizing load handling with Redis caching."
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Alibaba Group",
+      "from_date": "Oct 2020 ",
+      "to_date": "Dec 2022",
+      "location": "Hangzhou, China",
+      "responsibilities": "Developed backend services using Java (Spring Boot) and Node.js, reducing response times for ticketing and customer support by 25%.\nDesigned a notification system with Kafka for real-time alerts, achieving a 98% timely notification rate for critical issues.\nCreated a customer insights dashboard using Vue.js and D3.js, improving resolution rates by 20%.\nAutomated testing and deployment with Jenkins and AWS CodePipeline, ensuring a consistent release process.\nDeployed the platform on AWS EC2 with Docker and Terraform, cutting infrastructure setup time by 50%."
+    },
+    {
+      "role": "Software Engineer ",
+      "company": "Huawei",
+      "from_date": "May 2016 ",
+      "to_date": "Sep 2020",
+      "location": "Shenzhen, China ",
+      "responsibilities": "Developed backend REST APIs using Java (Spring Boot), Hibernate, and PostgreSQL, achieving 98% uptime.\nImplemented the frontend with Angular, improving load times by 40%.\nLed testing initiatives with JUnit and Mockito, reducing bugs by 30%.\nOptimized frontend performance through lazy loading and code splitting, resulting in faster load times.\nDeployed solutions globally with AWS CloudFront and S3 for low-latency access."
+    }
+  ],
+  "skills": "• Languages: Java, JavaScript (React, Vue.js, Angular, Pixi.js, Vanilla JS, Node.js, TypeScript), Go, Python, SQL, Swift, Kotlin\n• Backend Frameworks: Spring Boot, Spring Security, Hibernate, Node.js, Express.js, JPA, Kafka, RabbitMQ\n• Frontend Frameworks and Tools: React, Vue.js, Angular, Pixi.js, Redux, Next.js, React Router, Material-UI, Ant Design, D3.js, Webpack, Babel, Jest\n• Databases: MySQL, PostgreSQL, Redis, MongoDB\n• DevOps: Docker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, Terraform, AWS CodePipeline\n• Cloud & Infrastructure: AWS (EKS, RDS, CloudFront, S3, Lambda), API Gateway, Git, CloudWatch, ELK Stack\n• Other: Microservices, RESTful API design, CI/CD, Infrastructure as Code (IaC), Data structures and algorithms, Agile/Scrum methodologies\n\n"
+}

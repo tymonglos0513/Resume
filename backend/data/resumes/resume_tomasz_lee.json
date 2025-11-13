@@ -1,0 +1,54 @@
+{
+  "name": "Tomasz Lee",
+  "role_name": "Senior Full Stack Engineer",
+  "email": "tomasz.lee8@outlook.com",
+  "phone": "+48 732 145 942",
+  "address": "Warsaw, Poland",
+  "linkedin": "https://www.linkedin.com/in/tomasz-lee-b9a25a391/",
+  "profile_summary": "Experienced .NET Full Stack Developer with 9+ years of expertise in designing, developing, and implementing complex applications. Specialized in microservices architecture and distributed systems with hands-on experience in Apache Kafka, RabbitMQ, and Redis. Skilled in both frontend and backend technologies, including ReactJS, NextJS, .NET, C#, and cloud services. Proven ability to deliver robust solutions, streamline development processes, and optimize performance. Adept at collaborating across teams and leading development projects to successful completion.",
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "category": "",
+      "from_year": "Apr 2012",
+      "to_year": "Oct 2014",
+      "location": "",
+      "university": "National University of Singapore"
+    },
+    {
+      "degree": "Bachelor of Computer Science",
+      "category": "",
+      "from_year": "Apr 2008",
+      "to_year": "Mar 2012",
+      "location": "",
+      "university": "National University of Singapore"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "CD Projekt RED",
+      "from_date": "May 2022",
+      "to_date": "Oct 2025",
+      "location": "Warsaw, Poland",
+      "responsibilities": "Spearheaded the design and development of a web-based customer management platform using .NET 7 and ReactJS, Next.js, improving user satisfaction by 25%.\nDesigned and implemented a microservices architecture using .NET Core to modularize the system for scalability and maintainability.\nIntegrated Apache Kafka for real-time data streaming and RabbitMQ for task queuing, resulting in improved system resilience and throughput.\nUtilized Redis for caching frequently accessed data, reducing database load and improving response times by 35%.\nDeveloped RESTful APIs with .NET, integrated with a MongoDB database to provide seamless data access for various services.\nImplemented CI/CD pipelines on Azure DevOps, reducing deployment time by 40%.\nOptimized MSSQL database queries and indexing, reducing average query execution time by 20%.\nCollaborated with UX/UI designers to enhance the platform’s user interface, leading to an improved user experience.\nDeveloped a reporting engine using D3.js and Three.js for interactive data visualizations.\nImplemented JWT-based authentication and authorization for securing the application.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Sea Group",
+      "from_date": "Mar 2018",
+      "to_date": "Apr 2022",
+      "location": "Shopee, Singapore",
+      "responsibilities": "Designed and developed a cloud-based project management tool using Angular and .NET Core, leading to a 15% increase in team collaboration efficiency.\nCreated a microservices architecture with RabbitMQ for task orchestration and Apache Kafka for handling event-driven data streams, enhancing system scalability.\nIntegrated Redis as a caching layer to reduce latency in frequent API calls, resulting in a 25% boost in system performance.\nDeveloped RESTful APIs with .NET Core and integrated with a PostgreSQL database for real-time data access.\nBuilt and maintained ReactJS and Tailwind CSS components, resulting in a 25% improvement in user engagement on the platform.\nLed the effort to implement CI/CD pipelines using GitHub Actions, reducing production deployment errors by 30%.\nManaged MSSQL and MySQL databases for data storage and retrieval, optimizing queries for better performance.\nCollaborated closely with stakeholders to define system requirements and development timelines, ensuring timely project delivery.\nCreated custom charts and graphs using D3.js for interactive project status tracking and reporting.\nConducted code reviews and mentorship sessions with junior developers, improving team productivity.\n"
+    },
+    {
+      "role": "Software Developer",
+      "company": "Grab Holdings Inc",
+      "from_date": "Jan 2015",
+      "to_date": "Feb 2018",
+      "location": "Singapore",
+      "responsibilities": "Contributed to the development of an internal CRM system using .NET Framework and Angular, improving sales team productivity by 20%.\nImplemented RabbitMQ to manage message queues for processing customer notifications asynchronously, reducing system load during peak usage.\nCreated a set of reusable components in Angular and C# to accelerate development for future projects.\nWorked with the SQL Server database to manage and retrieve customer information, improving query efficiency.\nAssisted in migrating legacy code from ASP.NET WebForms to .NET Core, enhancing system performance and maintainability.\nCollaborated with the DevOps team to set up automated builds and releases in Azure, speeding up deployment processes.\nProvided support for integrating the platform with third-party APIs, allowing seamless data sharing across systems.\nWorked with Vue.js to improve the frontend experience on a client-side dashboard.\nParticipated in daily standups and code reviews to ensure alignment with project goals and coding standards.\nDelivered technical documentation and user guides for internal systems, improving knowledge transfer among teams.\n"
+    }
+  ],
+  "skills": "•\tFrontend Technologies: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, VueJS, NuxtJS, Angular, Material UI, Three.js, D3.js, React Native, Flutter, Chakra UI, TailwindCSS\n•\tBackend Technologies: NodeJS, ExpressJS, NestJS, C#, .NET, Entity Framework, Microservices\n•\tMessaging & Caching: Apache Kafka, RabbitMQ, Redis\n•\tDatabase Systems: MSSQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB, CosmosDB\n•\tCloud & DevOps: AWS, Azure, CI/CD pipelines\n•\tTesting Tools: NUnit, xUnit, Selenium, Moq, Postman, Cypress, JMeter, Jest\n•\tBlockchain: Solidity, Ether.js, Web3.js, Ethereum\n•\tOther Skills: UX/UI Design, Git, GitHub, RESTful API, GraphQL, Python, Redux\n"
+}

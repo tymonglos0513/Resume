@@ -1,0 +1,46 @@
+{
+  "name": "Sebastian Lukasz Nowak",
+  "role_name": "Senior Software Engineer",
+  "email": "sebastiannowak425@outlook.com",
+  "phone": "+48 732 489 778",
+  "address": "Zgorzelec, Poland",
+  "linkedin": "https://www.linkedin.com/in/sebastian-nowak-756157396/",
+  "profile_summary": "As a seasoned Full Stack Developer with 8 years of experience, I specialize in building high-performance solutions across the healthcare and financial sectors, using modern JavaScript/TypeScript Python, and Flutter technologies. My expertise spans full-stack development with React, Next.js, Vue, Node.js, FastAPI, and Django, coupled with deep cloud experience across Azure and AWS. I’ve led the development of enterprise-grade platforms that integrate AI/ML capabilities for predictive analytics, intelligent automation, and real-time data processing.\nWith a strong foundation in microservices architecture, event-driven systems, and CI/CD automation, I build robust and secure applications aligned with compliance standards like HIPAA, FHIR, PCI DSS, and SOC 2. I bring hands-on experience in developing machine learning pipelines, serving ML models in production, and implementing MLOps workflows using tools like MLflow, Airflow, and Kubeflow.\n",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "category": "",
+      "from_year": "2001",
+      "to_year": "2006",
+      "location": "UK",
+      "university": "University of Oxford"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "DeepInspire",
+      "from_date": "Oct 2021",
+      "to_date": "Present",
+      "location": "UK",
+      "responsibilities": "Architected and developed scalable, full-stack healthcare and financial platforms using TypeScript, Python (FastAPI), Node.js, and modern front-end frameworks including React (17-18), Next.js, and Vue (3.x), while ensuring compliance with HIPAA, FHIR, GDPR, and financial regulatory standards (e.g., PCI DSS, SOX).\nDeveloped and deployed cross-platform mobile applications using Flutter and React Native, delivering seamless healthcare and fintech user experiences across iOS and Android platforms, with native module integration and state management using Provider and Redux.\nImplemented mobile-specific CI/CD pipelines using Fastlane and App Center, with automated testing, release management, and crash/error analytics (Firebase Crashlytics, Sentry).\nLed the re-architecture of monolithic applications into microservices-based ecosystems, employing Docker, Kubernetes (AKS/EKS), and serverless architectures (AWS Lambda, Azure Functions), enabling high availability and fault tolerance.\nDesigned and maintained cloud-native data architecture using PostgreSQL, MongoDB, Redis, and GraphQL, optimizing for large-scale healthcare and financial data ingestion, storage, and querying.\nDesigned and deployed machine learning models for use cases such as patient risk prediction, financial fraud detection, and document classification using Python (scikit-learn, PyTorch, TensorFlow), and integrated real-time inference services into the backend.\nBuilt MLOps pipelines using MLflow, DVC, and Apache Airflow for continuous training, validation, versioning, and deployment of models across development and production environments.\nIntegrated AI-based features into client-facing applications, such as smart financial dashboards, personalized health recommendations, and predictive alerts, powered by trained models and APIs hosted on Azure ML and AWS Sagemaker.\nImplemented enterprise-level DevOps pipelines using GitHub Actions, Azure DevOps, and CircleCI, incorporating linting, testing, security scans, and multi-environment deployments for both web and API services.\nDelivered complex financial data visualization tools using D3.js, Chart.js, and Power BI Embedded, enabling real-time insights into transaction trends, fraud detection, and operational KPIs.\nCollaborated with data scientists to integrate NLP models (using spaCy, Hugging Face Transformers) for healthcare document parsing and financial anomaly detection, embedding them into core services through RESTful APIs.\nEstablished test strategies using Jest, Cypress, PyTest, and Postman, covering unit, integration, E2E, and contract testing across both front-end and backend services.\nIntegrated Azure Cognitive Search and ElasticSearch to enable advanced search capabilities across millions of unstructured and structured health records and financial documents.\n"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Britenet",
+      "from_date": "Sep 2015",
+      "to_date": "Sep 2021",
+      "location": "Poland",
+      "responsibilities": "Led the development and modernization of financial platforms by adopting a microservices-based architecture using Node.js (NestJS/Express) and Python (FastAPI, Django), boosting scalability, maintainability, and throughput for high-volume transaction systems.\nBuilt dynamic, user-focused front-end applications using React (18), Vue 3, Next.js, and TypeScript, applying Redux Toolkit and Tailwind CSS to create responsive and performant user interfaces for financial dashboards and admin portals.\nDeveloped real-time transaction monitoring and analytics dashboards using React, D3.js, and Power BI Embedded, enabling operations teams to track financial activity, detect anomalies, and generate actionable insights.\nIntegrated Kafka, RabbitMQ, and Azure Service Bus to establish a robust event-driven architecture, supporting asynchronous communication and real-time event processing for transactions, alerts, and compliance workflows.\nBuilt and orchestrated ETL pipelines using Python, Apache Airflow, and Azure Data Factory, enabling batch and real-time ingestion of financial data from internal and third-party sources.\nImplemented AI/ML-powered fraud detection systems using scikit-learn, XGBoost, and Azure Machine Learning, analyzing transaction patterns and user behavior to proactively flag suspicious activities in banking systems.\nCreated ML pipelines for credit scoring, churn prediction, and transaction classification using MLflow and Airflow, integrating model inference directly into backend services for real-time decision-making.\n"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Binary Studio",
+      "from_date": "Jan 2007",
+      "to_date": "Aug 2015",
+      "location": "UK",
+      "responsibilities": "Designed and optimized backend services for a global e-commerce platform using Python (FastAPI, Django) and Node.js (NestJS, Express), ensuring high availability, low latency, and scalability across key modules like checkout, cart, and order fulfillment.\nEngineered real-time features using WebSockets and event-driven architecture powered by Kafka and RabbitMQ, enabling responsive order updates, dynamic inventory tracking, and real-time customer support.\nDeveloped frontend applications using React (18), Vue 3, and Angular, enhanced with TypeScript, Redux Toolkit, and Tailwind CSS, delivering fast, responsive user experiences on both web and mobile platforms.\nLeveraged MongoDB, PostgreSQL, Redis, and Cassandra for distributed data storage, ensuring fast, fault-tolerant data access for high-traffic e-commerce workflows and caching frequently accessed resources for performance gains.\nIntegrated AI/ML-based recommendation engines using scikit-learn, LightGBM, and TensorFlow to personalize product listings, optimize search relevance, and improve conversion rates based on real-time behavioral data.\nImplemented Redis caching for product metadata, shopping cart sessions, and search results, significantly improving application responsiveness and reducing read pressure on databases.\nImplemented feature flags and blue-green deployments using LaunchDarkly and Kubernetes namespaces, enabling controlled rollouts, A/B testing, and risk mitigation during major platform updates.\nCreated responsive, SEO-friendly e-commerce UIs using Next.js, Vue 3 + Nuxt, and HTML5/CSS3, optimized for mobile-first engagement and accessibility compliance (WCAG 2.1).\nBuilt secure payment workflows integrated with Stripe, PayPal, and Razorpay, applying tokenized transactions and PCI-compliant handling of sensitive data.\nApplied role-based access control (RBAC) and OAuth 2.0 for secure customer and admin access, ensuring GDPR compliance and user data protection throughout the platform."
+    }
+  ],
+  "skills": "Frameworks & Technologies:\n\tPython(FastAPI, Flask, Django), JavaScript/TypeScript (React, Vue, Angular)\nArtificial Intelligence & Machine Learning:\nMLflow, Airflow, Kubeflow\nDevOps & Cloud:\nDocker, Kubernetes, GitHub Actions, GitLab CI/CD, AWS (ECS, Lambda, RDS, S3), Azure (App Services, Blob, SQL)\n        Authentication & Security:\n\tKeycloak (OIDC, RBAC), JWT, OAuth2, Let’s Encrypt, Nginx, Certbot\n        Databases & Caching:\nPostgreSQL (Fintech), MySQL (Healthcare), MongoDB (Gaming), Redis\n        CI/CD & Infrastructure as Code:\n\tTerraform, Ansible, Helm, Docker Compose\n"
+}
