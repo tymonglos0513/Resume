@@ -3,7 +3,7 @@ import axios from "axios";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend, Cell } from "recharts";
 
 function CountPage({ authKey }) {
-  const API_BASE = "http://93.127.142.20:8000";
+  const API_BASE = "http://93.127.129.105:8000";
 
   const [date, setDate] = useState(() => new Date().toISOString().split("T")[0]);
   const [data, setData] = useState([]);

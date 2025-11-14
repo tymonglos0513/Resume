@@ -16,7 +16,7 @@ from fastapi.responses import JSONResponse
 load_dotenv()
 
 APP_SECRET_KEY = os.getenv("APP_SECRET_KEY", "defaultkey")
-ALLOWED_FRONTEND = os.getenv("ALLOWED_FRONTEND_URL", "http://93.127.142.20:3001/schedules/ammar").rstrip("/")
+ALLOWED_FRONTEND = os.getenv("ALLOWED_FRONTEND_URL", "http://93.127.129.105:3001/schedules/ammar").rstrip("/")
 
 app = FastAPI(title="Google Sheet Link Extractor")
 
@@ -53,10 +53,10 @@ async def verify_api_key(request: Request, call_next):
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-    	"http://93.127.142.20:3000",
-    	"http://93.127.142.20:3000/",
-    	"http://93.127.142.20:3001",
-    	"http://93.127.142.20:3001/",
+    	"http://93.127.129.105:3000",
+    	"http://93.127.129.105:3000/",
+    	"http://93.127.129.105:3001",
+    	"http://93.127.129.105:3001/",
     ],
     allow_credentials=True,
     allow_methods=["*"],

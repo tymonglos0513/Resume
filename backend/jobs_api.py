@@ -114,7 +114,7 @@ def generate_all_custom_resumes(payload: dict = Body(...)):
             # call /resume/customize internally
             import requests
             r = requests.post(
-                "http://93.127.142.20:8000/resume/customize",
+                "http://93.127.129.105:8000/resume/customize",
                 json={"resume": base_resume, "job_description": text},
                 timeout=180,
             )

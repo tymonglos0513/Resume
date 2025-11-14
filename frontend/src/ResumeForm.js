@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const API_BASE = "http://93.127.142.20:8000";
+const API_BASE = "http://93.127.129.105:8000";
 
 const ResumeForm = ({ authKey }) => {
   const [resumes, setResumes] = useState([]);

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 
 function MainPage({ authKey }) {
-  const API_BASE = "http://93.127.142.20:8000";
+  const API_BASE = "http://93.127.129.105:8000";
 
   const [jobText, setJobText] = useState("");
   const [selectedResumeName, setSelectedResumeName] = useState("");
@@ -72,7 +72,7 @@ function MainPage({ authKey }) {
       setRoleName(customizedResume["role_name"])
 
       try {
-        await axios.post("http://93.127.142.20:8001/api/applications", {
+        await axios.post("http://93.127.129.105:8001/api/applications", {
           profile_name: selectedResumeName,
           company_name: customizedResume["apply_company"],
           job_link: jobLink,
